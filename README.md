@@ -51,7 +51,7 @@ print("Urutan bilangan :", data)
 * Buat program dengan perulangan bertingkat (nested) for yang
 menghasilkan output sebagai berikut:
 
-<img src="perulangan1.png">
+![Alt text](img.png)
 
 ## kode programnya
 ``````
