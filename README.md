@@ -51,7 +51,7 @@ print("Urutan bilangan :", data)
 * Buat program dengan perulangan bertingkat (nested) for yang
 menghasilkan output sebagai berikut:
 
-![Alt text](img.png)
+<img src="perulangan1.png">
 
 ## kode programnya
 ``````
@@ -67,7 +67,7 @@ for bar in range(baris):
 
 ## maka outputnya
 
-![Alt text](olp1.png)
+<img src="perulangan1.png"
 
 
 ## Latihan 2
@@ -95,7 +95,7 @@ while count < n:
 ``````
 
 ## maka outputnya
-![Alt text](olp2.png)
+<img src="perulangan2.png"
 
 
 
@@ -129,7 +129,7 @@ print("Bilangan terbesar adalah:", terbesar)
 
 ## Maka Outputnya Adalah :
 
-![Alt text](hlabspy02.png)
+
 
 
 # Labspy03
@@ -156,7 +156,7 @@ print("Selesai")
 
 ## Maka Outputnya Adalah :
 
-![Alt text](hlatihan1m3.png)
+<img src="Screenshot (20).png"
 
 ## Latihan  2
 ### Kode Program
@@ -184,7 +184,7 @@ else:
 
 ### Maka Outputnya Adalah : 
 
-![Alt text](hlatihan2m3.png)
+<img src="Screenshot (28).png">
 
 ## Program 1
 
@@ -223,4 +223,4 @@ print(f"Total Laba Adalah: {total_laba:.2f}")
 
 ### Maka Outputnya Adalah : 
 
-![Alt text](hprogram1.png)
+<img src="Screenshot (27).png"
